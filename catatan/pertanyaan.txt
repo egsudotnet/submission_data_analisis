@@ -1,0 +1,30 @@
+1: Berapa total penjualan keseluruhan selama periode tertentu?
+2: Jumlah order dan revenue pada 10 terbanyak setiap negara?
+3: Apa produk atau kategori produk dengan penjulan paling banyak dan paling sedikit?
+4: pelanggan mana yang memiliki high value (sering melakukan transaksi dan menghasilkan revenue yang besar) dan low value
+
+
+3. Kota yang paling banyak dan paling sedikit memberikan revenue?
+
+
+7. Berapa banyak transaksi yang terjadi di setiap wilayah atau negara?
+
+1. Berapa total penjualan keseluruhan selama periode tertentu?
+2. Bagaimana tren penjualan selama beberapa bulan terakhir?
+3. Apa produk atau kategori produk yang paling laris?
+4. Berapa banyak pelanggan yang melakukan pembelian lebih dari sekali?
+5. Berapa banyak pelanggan yang melakukan pembelian sekaligus dalam satu transaksi?
+6. Apa metode pembayaran yang paling sering digunakan oleh pelanggan?
+8. Apakah ada waktu puncak (peak times) dalam hal transaksi selama hari atau minggu?
+9. Berapa jumlah pengembalian barang (returns) dan apa alasan utamanya?
+10. Bagaimana tingkat kepuasan pelanggan dalam bentuk ulasan atau peringkat produk?
+11. Berapa biaya pengiriman rata-rata untuk setiap transaksi?
+12. Apakah ada hubungan antara harga produk dan volume penjualan?
+13. Apakah ada perubahan harga produk yang mempengaruhi tingkat penjualan?
+14. Bagaimana retensi pelanggan dalam jangka waktu tertentu?
+15. Apakah ada tren musiman yang terlihat dalam penjualan produk tertentu?
+16. Apakah ada korelasi antara promosi atau diskon dengan peningkatan penjualan?
+17. Bagaimana tingkat konversi pelanggan (pembeli potensial menjadi pembeli sebenarnya)?
+18. Apakah ada pola pembelian yang berbeda antara pelanggan baru dan pelanggan yang sudah lama berlangganan?
+19. Apakah ada pengaruh cuaca atau faktor eksternal lainnya terhadap penjualan produk tertentu?
+20. Apakah ada pola pembelian yang berbeda pada hari libur atau hari khusus lainnya?

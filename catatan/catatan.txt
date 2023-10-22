@@ -7,3 +7,39 @@ orders_df = pd.read_csv("data/orders_dataset.csv")
 product_category_name_translation_df = pd.read_csv("data/product_category_name_translation.csv")
 products_df = pd.read_csv("data/products_dataset.csv")
 sellers_df = pd.read_csv("data/sellers_dataset.csv")
+
+Menilai Data
+
+customers_df.info()
+customers_df.isnull().sum()
+print("Jumlah duplikasi: ", customers_df.duplicated().sum())
+customers_df[customers_df.age == customers_df.age.max()]
+Menangani inaccurate value
+
+
+
+order_reviews_df.review_comment_message.value_counts()
+
+#order_reviews_df.head()
+#order_reviews_df.review_comment_message.fillna(value="Recomendo", inplace=True)   
+data_filter = (order_reviews_df['review_comment_message'] == 'review_comment_message')
+order_reviews_df.loc[data_filter, 'review_comment_message'] = 'review_comment_message    
+
+#orders_df.order_approved_at.value_counts()
+orders_df[orders_df.order_approved_at.isna() == True]
+#orders_df.order_approved_at.head()
+#orders_df.k
+
+customer_city
+sao paulo         15540
+rio de janeiro     6882
+belo horizonte     2773
+brasilia           2131
+curitiba           1521
+                  ...  
+ibiara                1
+rio espera            1
+rio dos indios        1
+rio dos cedros        1
+lagoao                1
+Name: customer_id, Length: 4119, dtype: int64
